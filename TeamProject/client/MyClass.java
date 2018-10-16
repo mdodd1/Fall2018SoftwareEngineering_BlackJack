@@ -13,6 +13,8 @@ public class MyClass
     System.out.println("3rd Print statement");
     
     System.out.println("making a 4th print statement");
+    
+    int weinDisBOIS = 420;
 
   }
 
